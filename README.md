@@ -1,7 +1,4 @@
 # 利用iptables设置端口转发的shell脚本
-
-电报讨论组 https://t.me/popstary
-
 ## 项目作用
 
 1. 便捷地设置iptables流量转发规则
@@ -65,8 +62,3 @@ iptables的后继者nftables已经在debain和centos最新的操作系统中作�
 所以**强烈推荐**使用[/arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust)。不用担心，本项目依然可以正常稳定使用。
 
 PS: 新旧两个项目并不兼容，切换到新项目时，请先卸载此项目
-
-## 赏个鸡腿吧
-
-<img src="http://cdn.arloor.com/wechat_shoukuan.jpg" alt="" width="400px" style="max-width: 100%;">
-
